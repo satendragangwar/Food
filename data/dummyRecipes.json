@@ -1,0 +1,93 @@
+{
+  "paneer butter masala": {
+    "name": "Paneer Butter Masala",
+    "type": "Wet Sabzi",
+    "ingredients": [
+      { "name": "paneer", "quantity": "250g", "standardQuantity": "1.5 cup cubes" },
+      { "name": "butter", "quantity": "30g", "standardQuantity": "2 tablespoon" },
+      { "name": "tomato", "quantity": "200g", "standardQuantity": "2 medium" },
+      { "name": "onion", "quantity": "100g", "standardQuantity": "1 medium" },
+      { "name": "cream", "quantity": "50ml", "standardQuantity": "3 tablespoon" },
+      { "name": "ginger", "quantity": "10g", "standardQuantity": "1 inch piece" },
+      { "name": "garlic", "quantity": "10g", "standardQuantity": "5 cloves" },
+      { "name": "turmeric_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "red_chili_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "garam_masala", "quantity": "3g", "standardQuantity": "0.5 teaspoon" },
+      { "name": "salt", "quantity": "5g", "standardQuantity": "to taste" }
+    ],
+    "totalWeight": 800
+  },
+  "dal makhani": {
+    "name": "Dal Makhani",
+    "type": "Dal",
+    "ingredients": [
+      { "name": "rajma", "quantity": "50g", "standardQuantity": "0.25 cup" },
+      { "name": "urad_dal", "quantity": "200g", "standardQuantity": "1 cup" },
+      { "name": "butter", "quantity": "30g", "standardQuantity": "2 tablespoon" },
+      { "name": "tomato", "quantity": "100g", "standardQuantity": "1 medium" },
+      { "name": "onion", "quantity": "100g", "standardQuantity": "1 medium" },
+      { "name": "cream", "quantity": "30ml", "standardQuantity": "2 tablespoon" },
+      { "name": "ginger", "quantity": "10g", "standardQuantity": "1 inch piece" },
+      { "name": "garlic", "quantity": "10g", "standardQuantity": "5 cloves" },
+      { "name": "turmeric_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "red_chili_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "garam_masala", "quantity": "3g", "standardQuantity": "0.5 teaspoon" },
+      { "name": "salt", "quantity": "5g", "standardQuantity": "to taste" }
+    ],
+    "totalWeight": 900
+  },
+  "aloo gobi": {
+    "name": "Aloo Gobi",
+    "type": "Dry Sabzi",
+    "ingredients": [
+      { "name": "potato", "quantity": "300g", "standardQuantity": "2 medium" },
+      { "name": "cauliflower", "quantity": "300g", "standardQuantity": "0.5 medium" },
+      { "name": "onion", "quantity": "100g", "standardQuantity": "1 medium" },
+      { "name": "tomato", "quantity": "100g", "standardQuantity": "1 medium" },
+      { "name": "mustard_oil", "quantity": "30ml", "standardQuantity": "2 tablespoon" },
+      { "name": "ginger", "quantity": "10g", "standardQuantity": "1 inch piece" },
+      { "name": "garlic", "quantity": "10g", "standardQuantity": "5 cloves" },
+      { "name": "turmeric_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "red_chili_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "cumin_seeds", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "salt", "quantity": "5g", "standardQuantity": "to taste" }
+    ],
+    "totalWeight": 750
+  },
+  "chicken curry": {
+    "name": "Chicken Curry",
+    "type": "Non-Veg Curry",
+    "ingredients": [
+      { "name": "chicken", "quantity": "500g", "standardQuantity": "500g" },
+      { "name": "onion", "quantity": "150g", "standardQuantity": "1.5 medium" },
+      { "name": "tomato", "quantity": "150g", "standardQuantity": "1.5 medium" },
+      { "name": "mustard_oil", "quantity": "30ml", "standardQuantity": "2 tablespoon" },
+      { "name": "ginger", "quantity": "15g", "standardQuantity": "1.5 inch piece" },
+      { "name": "garlic", "quantity": "15g", "standardQuantity": "7-8 cloves" },
+      { "name": "turmeric_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "red_chili_powder", "quantity": "8g", "standardQuantity": "1.5 teaspoon" },
+      { "name": "garam_masala", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "coriander_powder", "quantity": "10g", "standardQuantity": "2 teaspoon" },
+      { "name": "salt", "quantity": "10g", "standardQuantity": "to taste" }
+    ],
+    "totalWeight": 950
+  },
+  "palak paneer": {
+    "name": "Palak Paneer",
+    "type": "Wet Sabzi",
+    "ingredients": [
+      { "name": "paneer", "quantity": "200g", "standardQuantity": "1 cup cubes" },
+      { "name": "spinach", "quantity": "400g", "standardQuantity": "4 cups" },
+      { "name": "onion", "quantity": "100g", "standardQuantity": "1 medium" },
+      { "name": "tomato", "quantity": "50g", "standardQuantity": "0.5 medium" },
+      { "name": "ghee", "quantity": "30g", "standardQuantity": "2 tablespoon" },
+      { "name": "ginger", "quantity": "10g", "standardQuantity": "1 inch piece" },
+      { "name": "garlic", "quantity": "10g", "standardQuantity": "5 cloves" },
+      { "name": "green_chili", "quantity": "10g", "standardQuantity": "2 medium" },
+      { "name": "turmeric_powder", "quantity": "5g", "standardQuantity": "1 teaspoon" },
+      { "name": "garam_masala", "quantity": "3g", "standardQuantity": "0.5 teaspoon" },
+      { "name": "salt", "quantity": "5g", "standardQuantity": "to taste" }
+    ],
+    "totalWeight": 800
+  }
+} 

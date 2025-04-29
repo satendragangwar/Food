@@ -1,0 +1,105 @@
+{
+  "foodTypes": {
+    "Wet Sabzi": {
+      "katori": 180,
+      "serving": 180
+    },
+    "Dry Sabzi": {
+      "katori": 150,
+      "serving": 150
+    },
+    "Dal": {
+      "katori": 200,
+      "serving": 200
+    },
+    "Rice": {
+      "katori": 150,
+      "serving": 150
+    },
+    "Roti": {
+      "piece": 30,
+      "serving": 30
+    },
+    "Non-Veg Curry": {
+      "katori": 200,
+      "serving": 200
+    }
+  },
+  "measurements": {
+    "cup": {
+      "default": 200,
+      "flour": 120,
+      "sugar": 200,
+      "rice": 180,
+      "dal": 190,
+      "liquid": 240
+    },
+    "tablespoon": {
+      "default": 15,
+      "liquid": 15,
+      "sugar": 12,
+      "salt": 18,
+      "flour": 8,
+      "oil": 14,
+      "butter": 14,
+      "ghee": 14,
+      "ginger": 6,
+      "garlic": 6,
+      "spices_powdered": 7
+    },
+    "teaspoon": {
+      "default": 5,
+      "cup": 5,
+      "tablespoon": 5,
+      "glass": 5,
+      "pinch": 5,
+      "handful": 5,
+      "piece": 5,
+      "medium": 5
+    },
+    "glass": 250,
+    "pinch": 0.5,
+    "handful": 30,
+    "piece": {
+      "default": 30,
+      "onion": 60,
+      "tomato": 60,
+      "potato": 100,
+      "garlic": 5,
+      "ginger": 10,
+      "green_chili": 5
+    },
+    "medium": {
+      "onion": 100,
+      "tomato": 100,
+      "potato": 150
+    }
+  },
+  "ingredientCategories": {
+    "liquid": {
+      "cup": 240,
+      "tablespoon": 15,
+      "teaspoon": 5
+    },
+    "spices": {
+      "tablespoon": 10,
+      "teaspoon": 3
+    }
+  },
+  "ingredients": {
+    "oil": "liquid",
+    "ghee": "liquid",
+    "butter": "liquid",
+    "milk": "liquid",
+    "water": "liquid",
+    "cream": "liquid",
+    "curd": "liquid",
+    "yogurt": "liquid",
+    "turmeric_powder": "spices",
+    "red_chili_powder": "spices",
+    "garam_masala": "spices",
+    "cumin_seeds": "spices",
+    "mustard_seeds": "spices",
+    "coriander_powder": "spices"
+  }
+} 
