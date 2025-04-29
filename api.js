@@ -1,6 +1,6 @@
 const express = require('express');
 const NutritionEstimator = require('./src/index');
-const DishClassifier = require('./src/DishClassifier');
+const DishClassifier = require('./src/services/dishClassifier');
 
 // Initialize the app
 const app = express();
